@@ -8,6 +8,7 @@ public class AppiumTest {
 public void mobiletest()
 {
 	System.out.println("Second Test");
+	System.out.println("Appium Automation");
 }
 
 }

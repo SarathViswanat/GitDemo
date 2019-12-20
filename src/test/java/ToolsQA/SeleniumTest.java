@@ -8,6 +8,7 @@ public class SeleniumTest {
 public void WebAutomation()
 {
 System.out.println("First Test Case");	
+System.out.println("Selenium Automation");
 }
 
 }

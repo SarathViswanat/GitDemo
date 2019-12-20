@@ -8,6 +8,7 @@ public class APiTest {
 public void apitesting()
 {
 	System.out.println("third test case");
+	System.out.println("API Automation");
 }
 
 }
